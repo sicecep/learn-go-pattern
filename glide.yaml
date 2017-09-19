@@ -1,0 +1,6 @@
+package: github.com/sicecep/learn-go-pattern
+import:
+- package: github.com/spf13/viper
+  version: ^1.0.0
+- package: github.com/gorilla/mux
+  version: ^1.5.0
